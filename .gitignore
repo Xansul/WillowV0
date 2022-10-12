@@ -1,0 +1,12 @@
+#privacy
+#ignore resource folders, unedited files, and config file
+
+Resources
+
+__pycache__
+
+WillowConfig.py
+
+WillowHACommands.py
+
+WillowMainV0.py
